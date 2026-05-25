@@ -18,12 +18,5 @@ public class Task {
     private Boolean completed;
     private LocalDateTime createdAt;
 
-    public void setId(Long aLong) {
-    }
 
-    public void setCreatedAt(LocalDateTime now) {
-    }
-
-    public void setCompleted(boolean b) {
-    }
 }
